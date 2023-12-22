@@ -1,6 +1,6 @@
 {
   "name": "libreoffice-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "libreoffice convert tool",
   "main": "index.js",
   "keywords": [
@@ -10,6 +10,10 @@
     "pdf",
     "xlsx"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xu1260114313/libreoffice-tool.git"
+  },
   "author": "xwb",
   "license": "MIT",
   "dependencies": {
